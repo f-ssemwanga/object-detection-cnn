@@ -1,0 +1,21 @@
+name: ak-env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - tensorflow-datasets
+  - tensorflow==2.0
+  - tensorflow-hub
+  - tensorflow-eigen
+  - tensorflow-base
+  - matplotlib-base
+  - matplotlib
+  - pandas
+  - notebook==6.0.3
+  - scikit-learn
+  - scikit-image
+  - opencv
+  - jupyterlab==1.2.6
+  - flask
+
+
